@@ -32,3 +32,5 @@ For Laravel: you probably need to follow this article, sorry.
 https://medium.com/@martinsOnuoha/fix-cors-issues-in-laravel-apis-bad89bed0150
 
 For Go and maybe Springboot, you guys sha get the point, read about it and include the correct headers in your work. There are really just 3 of these headers, Access-Control-Allow-Origin Access-Control-Allow-Methods and Access-Control-Allow-Headers.
+
+live at : https://hng9-stage1-task.cyclic.app
